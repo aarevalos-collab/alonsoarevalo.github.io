@@ -5,9 +5,12 @@
 Trabajo en el diseño, gestión y sistematización de proyectos sociales desde la comunicación,
 con enfoque en sostenibilidad, análisis de datos y políticas públicas.
 
+Este portafolio reúne proyectos, investigaciones y productos de comunicación
+desarrollados en el ámbito profesional, comunitario y académico.
+
 ## Líneas de trabajo
 - Comunicación para el Desarrollo y cambio social  
 - Gestión pública y políticas sociales  
 - Sostenibilidad, ambiente y seguridad alimentaria  
 - Investigación aplicada y análisis de datos  
-- Educación y comunicación comunitaria  
+- Educación y comunicación comunitaria
